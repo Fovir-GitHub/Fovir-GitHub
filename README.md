@@ -10,4 +10,4 @@ This is **Fovir**.
 
 ![GitHub Stats](https://github-readme-stats.fovir.fyi/api?username=Fovir-GitHub&theme=ambient_gradient&show_icon=true)
 
-![Today Language Usage](https://github-readme-stats.fovir.fyi/api/wakatime?username=Fovir&api_domain=wakapi.fovir.fyi&custom_title=Today%20Language%20Usage)
+![Today Language Usage](https://github-readme-stats.fovir.fyi/api/wakatime?username=Fovir&api_domain=wakapi.fovir.fyi&custom_title=Today%20Language%20Usage&theme=ambient_gradient)
