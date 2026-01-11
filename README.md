@@ -7,7 +7,7 @@ This is **Fovir**.
 - 😄 Interest: **Nix[OS]**
 - 📫 Email: ![fovir@disroot.org](mailto:fovir@disroot.org)
 - 🌐 My Personal Website: ![fovir.fyi](https://www.fovir.fyi/)
-- 🔑 My GPG key: [Download full key](https://keys.openpgp.org/search?q=30EC47AA0A45B5ABF5D59B4783313E67D35BFCF8).
+- 🔑 My GPG key: [30EC47AA0A45B5ABF5D59B4783313E67D35BFCF8](https://keys.openpgp.org/search?q=30EC47AA0A45B5ABF5D59B4783313E67D35BFCF8).
   - Key fingerprint: `30EC 47AA 0A45 B5AB F5D5  9B47 8331 3E67 D35B FCF8`
 
 ![GitHub Stats](https://github-readme-stats.fovir.fyi/api?username=Fovir-GitHub&theme=ambient_gradient&show_icon=true)
