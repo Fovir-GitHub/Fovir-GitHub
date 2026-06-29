@@ -5,7 +5,6 @@ This is **Fovir**.
 - 🔭 Exploring: **Cyber Security**
 - 🌱 Learning: **Web Development**
 - 😄 Interest: **Nix[OS]**
-- 📫 Email: ![fovir@disroot.org](mailto:fovir@disroot.org)
 - 🌐 My Personal Website: ![fovir.fyi](https://www.fovir.fyi/)
 - 🔑 My GPG Key [Fingerprint]: [`30EC47AA0A45B5ABF5D59B4783313E67D35BFCF8`](https://keys.openpgp.org/search?q=30EC47AA0A45B5ABF5D59B4783313E67D35BFCF8).
 
